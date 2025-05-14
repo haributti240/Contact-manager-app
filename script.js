@@ -1,7 +1,7 @@
 // object for storing a contacts in array for localstorage
 let contacts = [];
 
-/* console.log(contacts); */
+
 
 function renderContact(contact) {
   /* set item to localStorage to store data */
